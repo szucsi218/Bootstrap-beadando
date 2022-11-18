@@ -1,0 +1,12 @@
+.card{
+    border-radius: 20px 20px 0 0 ;
+}
+.card img{
+    border-radius: 20px 20px 0 0 ;
+}
+.card .btn{
+    background-color: green;
+}
+.card p{
+    text-align: justify;
+}
